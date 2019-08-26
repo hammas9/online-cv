@@ -39,7 +39,7 @@ sidebar:
 
 career-profile:
     title: About Me
-    summary: |
+    summary:
      
 
 education:
@@ -71,6 +71,7 @@ projects:
                 about a Youtube video using machine learning techniques." 
       
 publications:
+    title: Hopefully soon!
     
 
 skills:
